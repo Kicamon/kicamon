@@ -10,6 +10,7 @@
 <b><a href="https://juejin.cn/user/383100845819662">Blog</a></b>
 •
 <b><a href="https://codeforces.com/profile/Kicamon">Codeforces</a></b>
+•
 </p>
 
 
