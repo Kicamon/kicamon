@@ -38,10 +38,10 @@ Arch User
 
 ---
 
-## <img height="25" src="./img/law.png" alt="gif with funny random cat say thank you." /> [A Law Student](https://github.com/Kicamon/Note/blob/master/wiki/index.md)
+## <img height="25" src="./img/law.png" alt="gif with funny random cat say thank you." /> [Law Student](https://github.com/Kicamon/Note/blob/master/wiki/index.md)
 - my law note: [Law Note](https://github.com/Kicamon/Note/blob/master/wiki/index.md)
 
-## <img height="25" src="./img/vim.png" alt="gif with funny random cat say thank you." /> [A Vimer](https://github.com/Kicamon/nvim)
+## <img height="25" src="./img/vim.png" alt="gif with funny random cat say thank you." /> [Vimer](https://github.com/Kicamon/nvim)
 
 - my config: [Kicamon/nvim](https://github.com/Kicamon/nvim)
 - my config wrote with vim script: [Kicamon/nvim-vim](https://github.com/Kicamon/nvim-vim)
