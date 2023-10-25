@@ -9,7 +9,7 @@
 •
 <b><a href="https://space.bilibili.com/389928486"> BiliBili</a></b>
 •
-<b><a href="https://juejin.cn/user/383100845819662">Blog</a></b>
+<b><a href="https://home.cnblogs.com/u/KicamonIce">Blog</a></b>
 •
 <b><a href="https://codeforces.com/profile/Kicamon">Codeforces</a></b>
 •
