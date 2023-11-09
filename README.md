@@ -57,6 +57,6 @@ Arch User
 
 ## Support: Buy me a cup of coffee
 <div align="center">
-    <img height="200" src="img/support.png" alt="gif with funny random cat say thank you." />
+    <img height="200" src="img/support1.png" alt="gif with funny random cat say thank you." />
     <img height="200" src="img/support2.png" alt="gif with funny random cat say thank you." />
 </div>
