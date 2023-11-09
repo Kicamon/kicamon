@@ -56,4 +56,7 @@ Arch User
 - my dotfile: [Kicamon/dotfile](https://github.com/Kicamon/dotfile)
 
 ## Support: Buy me a cup of coffee
-## <img height="200" src="img/support.png" alt="gif with funny random cat say thank you." />
+<div align="center">
+    <img height="200" src="img/support.png" alt="gif with funny random cat say thank you." />
+    <img height="200" src="img/support2.png" alt="gif with funny random cat say thank you." />
+</div>
