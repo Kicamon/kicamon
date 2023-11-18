@@ -48,6 +48,8 @@ Arch User
 - im switch for Chinese: [Kicamon/im-switch.nvim](https://github.com/Kicamon/im-switch.nvim)
 - colorscheme: [Kicamon/gruvbox.nvim](https://github.com/Kicamon/gruvbox.nvim)
 - statusline and tabline: [Kicamon/SimpleLine.nvim](https://github.com/Kicamon/SimpleLine.nvim)
+- wiki: [Kicamon/wiki.nvim](https://github.com/Kicamon/wiki.nvim)
+- if you are interested in how to write nvim plugin and proficent in Chinese, you can watch this video: [Tutorial video](https://www.bilibili.com/video/BV1Qb4y1g7fU/)
 
 ## <img height="25" src="./img/acm.png" alt="gif with funny random cat say thank you." /> [ACMer](https://github.com/Kicamon/Algorithm)
 - my algo code and algo templates: [Kicamon/Algorithm](https://github.com/Kicamon/Algorithm)
