@@ -51,6 +51,7 @@ Arch User
 - ranger: [Kicamon/ranger.nvim](https://github.com/Kicamon/ranger.nvim)
 - tools: [Kicamon/tool.nvim](https://github.com/Kicamon/tool.nvim)
 - wiki: [Kicamon/wiki.nvim](https://github.com/Kicamon/wiki.nvim)
+- markdown table format: [Kicamon/markdown-table-mode.nvim](https://github.com/Kicamon/markdown-table-mode.nvim)
 - if you are interested in how to write nvim plugin and proficent in Chinese, you can watch this video: [Tutorial video](https://www.bilibili.com/video/BV1Qb4y1g7fU/)
 
 ## <img height="25" src="./img/acm.png" alt="gif with funny random cat say thank you." /> [ACMer](https://github.com/Kicamon/Algorithm)
