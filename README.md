@@ -38,8 +38,17 @@ Arch User
 
 ---
 
+## <img height="25" src="./img/acm.png" alt="gif with funny random cat say thank you." /> [ACMer](https://github.com/Kicamon/Algorithm)
+- my algo code and algo templates: [Kicamon/Algorithm](https://github.com/Kicamon/Algorithm)
+
+## <img height="25" src="img/arch.png" alt="gif with funny random cat say thank you." /> [Arch User](https://github.com/Kicamon/dotfile)
+- my dotfile: [Kicamon/dotfile](https://github.com/Kicamon/dotfile)
+
 ## <img height="25" src="./img/law.png" alt="gif with funny random cat say thank you." /> [Law Student](https://github.com/Kicamon/Note/blob/master/wiki/index.md)
 - my law note: [Law Note](https://github.com/Kicamon/Note/blob/master/wiki/index.md)
+
+## <img height="25" src="./img/love.png" alt="gif with funny random cat say thank you." /> [All My Love](https://github.com/Kicamon/Kicamon.github.io)
+- my law note: [All My Love](http://kicamon.love/)
 
 ## <img height="25" src="./img/vim.png" alt="gif with funny random cat say thank you." /> [Vimer](https://github.com/Kicamon/nvim)
 
@@ -53,12 +62,6 @@ Arch User
 - wiki: [Kicamon/wiki.nvim](https://github.com/Kicamon/wiki.nvim)
 - markdown table format: [Kicamon/markdown-table-mode.nvim](https://github.com/Kicamon/markdown-table-mode.nvim)
 - if you are interested in how to write nvim plugin and proficent in Chinese, you can watch this video: [Tutorial video](https://www.bilibili.com/video/BV1Qb4y1g7fU/)
-
-## <img height="25" src="./img/acm.png" alt="gif with funny random cat say thank you." /> [ACMer](https://github.com/Kicamon/Algorithm)
-- my algo code and algo templates: [Kicamon/Algorithm](https://github.com/Kicamon/Algorithm)
-
-## <img height="25" src="img/arch.png" alt="gif with funny random cat say thank you." /> [Arch User](https://github.com/Kicamon/dotfile)
-- my dotfile: [Kicamon/dotfile](https://github.com/Kicamon/dotfile)
 
 ## Support: Buy me a cup of coffee
 <div align="center">
