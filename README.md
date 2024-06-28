@@ -43,6 +43,7 @@ Arch User
 
 ## <img height="25" src="img/arch.png" alt="gif with funny random cat say thank you." /> [Arch User](https://github.com/Kicamon/dotfile)
 - my dotfile: [Kicamon/dotfile](https://github.com/Kicamon/dotfile)
+- my wallpaper: [Kicamon/wallpaper](https://github.com/Kicamon/wallpaper)
 
 ## <img height="25" src="./img/law.png" alt="gif with funny random cat say thank you." /> [Law Student](https://github.com/Kicamon/Note/blob/master/wiki/index.md)
 - my law note: [Law Note](https://github.com/Kicamon/Note/blob/master/wiki/index.md)
