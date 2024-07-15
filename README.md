@@ -1,9 +1,8 @@
 # Hello~I am KicamonIce
 
-<div align="center">
-<img height="150" src="./img/0.gif" alt="gif with funny random cat say thank you." />
-</div>
-
+<picture decoding="async" loading="lazy">
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=kicamon&theme=journey&pixelate_avatar=false">
+</picture>
 
 <p align="center">
 •
@@ -18,18 +17,9 @@
 </p>
 
 
-<p align="center"><b>
-Law Student
-|
-Vimer
-|
-Acmer
-|
-Arch User
-</b></p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-%2300599C.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
 <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
