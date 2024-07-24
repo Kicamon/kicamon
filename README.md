@@ -36,10 +36,10 @@
 - my wallpaper: [Kicamon/wallpaper](https://github.com/Kicamon/wallpaper)
 
 ## <img height="25" src="./img/law.png" alt="gif with funny random cat say thank you." /> [Law Student](https://github.com/Kicamon/Note/blob/master/wiki/index.md)
-- my law note: [Law Note](https://github.com/Kicamon/Note/blob/master/wiki/index.md)
+- my note: [Note](https://github.com/Kicamon/Note/blob/master/wiki/index.md)
 
 ## <img height="25" src="./img/love.png" alt="gif with funny random cat say thank you." /> [All My Love](https://github.com/Kicamon/Kicamon.github.io)
-- my law note: [All My Love](http://kicamon.love/)
+- love web: [All My Love](http://kicamon.love/)
 
 ## <img height="25" src="./img/vim.png" alt="gif with funny random cat say thank you." /> [Vimer](https://github.com/Kicamon/nvim)
 
