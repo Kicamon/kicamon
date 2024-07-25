@@ -12,7 +12,7 @@
 •
 <b><a href="https://codeforces.com/profile/Kicamon">Codeforces</a></b>
 •
-<b><a href="mailto:kicamonice1532931259@gmail.com">Email me</a></b>
+<b><a href="mailto:kicamonice@gmail.com">Email me</a></b>
 •
 </p>
 
