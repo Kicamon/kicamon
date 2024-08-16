@@ -1,4 +1,5 @@
-# Hello~I am KicamonIce
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=89B4FA&random=false&width=435&separator=%40&lines=Hello~I am KicamonIce;)](#TOP)
+
 
 <picture decoding="async" loading="lazy">
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=kicamon&theme=journey&pixelate_avatar=false">
