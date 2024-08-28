@@ -1,4 +1,4 @@
-# Hello~Here am KicamonIce
+# Hello~Here are KicamonIce
 
 > I am Kicamon Ice, a law student, acmer, archer and vimer. Study at East China Jiaotong University. And I love Rem~
 
