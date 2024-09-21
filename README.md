@@ -58,7 +58,7 @@
 - quick running code: [running.nvim](https://github.com/Kicamon/running.nvim)
 - if you are interested in how to write nvim plugin and proficent in Chinese, you can watch this video: [Tutorial video](https://www.bilibili.com/video/BV1Qb4y1g7fU/)
 
-## Support: Buy me a cup of coffee
+## Support: Buy me a cup of coffee(WeChat Pay and Alipay)
 <div align="center">
     <img height="200" src="img/support1.png" />
     <img height="200" src="img/support2.png" />
