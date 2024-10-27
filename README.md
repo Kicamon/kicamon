@@ -1,6 +1,6 @@
 # Hello~Here are KicamonIce
 
-> I am Kicamon Ice, a law student, acmer, archer and vimer. Study at East China Jiaotong University. And I love Rem~
+> I am Kicamon Ice, a law student, acmer, archer and vimer. Study at East China Jiaotong University. And I am currently job hunting QWQ
 
 <picture decoding="async" loading="lazy">
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=kicamon&theme=journey&pixelate_avatar=false">
